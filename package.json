@@ -14,8 +14,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node server-statis.ts",
-    "watch": "tsx watch server-statis.ts"
+    "start": "ts-node log-rotator.ts",
+    "watch": "tsx watch log-rotator.ts"
   },
   "repository": {
     "type": "git",
