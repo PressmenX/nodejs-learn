@@ -1,2 +1,2 @@
 
-console.log("Progam Berjalan dari sini");
+console.log("Progam Berjalan dari sin");
